@@ -1,0 +1,8 @@
+hello/hellospring/Service/MemberServiceTest.java
+ hello.hellospring.Service.MemberServiceTest
+hello/hellospring/HellospringApplicationTests.java
+ hello.hellospring.HellospringApplicationTests
+hello/hellospring/repository/MemoryMemberRepositoryTest.java
+ hello.hellospring.repository.MemoryMemberRepositoryTest
+hello/hellospring/Service/MemberServiceItgrationTest.java
+ hello.hellospring.Service.MemberServiceItgrationTest
